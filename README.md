@@ -1,6 +1,10 @@
 # Simulação de Cenários - Semáforo com Sensores de Chuva
+
 Descrição do Projeto
-Este projeto simula o funcionamento dos semáforos no cruzamento da Avenida Washington Soares com a Rua Valmir Pontes (esquina da Unifor). O sistema é aprimorado com a adição de dois sensores: um sensor de chuva (digital) e um sensor de luminosidade (analógico). O semáforo ajusta automaticamente o tempo de passagem de veículos com base nas condições climáticas.
+
+Este projeto simula o funcionamento dos semáforos no cruzamento da Avenida Washington Soares com a Rua Valmir Pontes (esquina da Unifor).
+O sistema é aprimorado com a adição de dois sensores: um sensor de chuva (digital) e um sensor de luminosidade (analógico). 
+O semáforo ajusta automaticamente o tempo de passagem de veículos com base nas condições climáticas.
 
 Funcionalidades
 Simulação dos semáforos: O programa simula o funcionamento dos semáforos presentes no cruzamento especificado.
@@ -10,6 +14,7 @@ Sensor de luminosidade (analógico): Mede a intensidade da luz para determinar s
 Ajuste de tempo:
 Aumenta o tempo de passagem de veículos quando está chovendo e escuro.
 Mantém o tempo normal de passagem em dias claros e sem chuva.
+
 Requisitos
 Arduino com suporte para leitura analógica e digital.
 Sensores de chuva e luminosidade.
