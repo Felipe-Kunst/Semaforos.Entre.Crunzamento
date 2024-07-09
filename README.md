@@ -28,3 +28,8 @@ Este projeto simula o funcionamento dos semáforos no cruzamento da Avenida Wash
 - Sensor de luminosidade.
 - Switch.
 - LEDs.
+
+## Visualização do Projeto
+
+[Link para o Wokwi](https://wokwi.com/projects/402515596468925441)
+
